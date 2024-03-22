@@ -25,7 +25,7 @@ To play the Simon game, simply open the provided HTML file in a web browser. Pre
 
 Demo:
 
-Play Simon Game ()
+Play Simon Game (https://rohitroy1711.github.io/Simon-Game/)
 
 Open the index.html file in your preferred web browser to start playing the game.
 
